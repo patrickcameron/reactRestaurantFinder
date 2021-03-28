@@ -1,12 +1,9 @@
-import './App.css';
+import Search from './Search';
 
 function App() {
   return (
     <div>
-      <header>
-        <h1>Restaurant Search</h1>
-        <form></form>
-      </header>
+      <Search />
     </div>
   );
 }
